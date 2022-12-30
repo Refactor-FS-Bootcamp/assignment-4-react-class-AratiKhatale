@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(107, 135, 174);
+    
+}
+.container{
+  
+  width: auto;
+  background-color: #351dab;
+  display:block;
+  margin: 10px 70% 40px 200px;
+  
+}
+
+.img-tag{
+    position: relative;
+    justify-content: center;
+    display: flex;
+    margin-left: 100px;
+    padding: 50px;
+    
+    height: 20%;
+    
+}
+
+.h3{
+    background-color: rgb(255, 255, 0);
+    position: relative;
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    text-decoration: solid;
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
